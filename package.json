@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "xml": "node src/xmlRequest/index.js" 
   },
   "keywords": [],
   "author": "",
